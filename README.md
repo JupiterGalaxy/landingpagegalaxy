@@ -1,0 +1,3 @@
+"Primeiro" projeto feito em uma aula.
+
+Nada tão especial, por enquanto...
